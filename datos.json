@@ -1,0 +1,131 @@
+{
+    "__class__": "ManejadorProvincias",
+    "provincias": [
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nom": "San Juan",
+                "cap": "San Juan",
+                "cantH": 755658,
+                "cantD": 19
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nom": "Catamarca",
+                "cap": "Catamarca",
+                "cantH": 25,
+                "cantD": 6
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nom": "San Luis",
+                "cap": "San Luis",
+                "cantH": 476351,
+                "cantD": 9
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nom": "La Rioja",
+                "cap": "La Rioja",
+                "cantH": 210219,
+                "cantD": 18
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nom": "La Plata",
+                "cap": "Buenos Aires",
+                "cantH": 17541141,
+                "cantD": 135
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nom": "Chubut",
+                "cap": "Rawson",
+                "cantH": 224686,
+                "cantD": 12
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nom": "Cordoba",
+                "cap": "Cordoba",
+                "cantH": 165321,
+                "cantD": 26
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nom": "Corrientes",
+                "cap": "Corrientes",
+                "cantH": 88199,
+                "cantD": 25
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nom": "Entre Rios",
+                "cap": "Entre Rios",
+                "cantH": 78781,
+                "cantD": 17
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nom": "Formosa",
+                "cap": "Formosa",
+                "cantH": 605193,
+                "cantD": 9
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nom": "Jujuy",
+                "cap": "Jujuy",
+                "cantH": 53219,
+                "cantD": 16
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nom": "La Pampa",
+                "cap": "La Pampa",
+                "cantH": 143440,
+                "cantD": 22
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nom": "Mendoza",
+                "cap": "Mendoza",
+                "cantH": 1990338,
+                "cantD": 18
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nom": "Buenos Aires",
+                "cap": "Rio de la plata",
+                "cantH": "11000000",
+                "cantD": "30"
+            }
+        }
+    ]
+}
